@@ -65,7 +65,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f5f6f7;
+  background-color: lightblue;
 }
 
 .section-header {
@@ -88,7 +88,9 @@ section {
   background: var(--color-primary);
   display: inline-block;
 }
-
+.sky{
+  background-color: lightblue;
+}
 .section-header h2:before {
   margin: 0 15px 10px 0;
 }
@@ -696,7 +698,7 @@ section {
 --------------------------------------------------------------*/
 .constructions .card-item {
   border: 1px solid rgba(82, 86, 94, 0.2);
-  background: #fff;
+  background: lightblue;
   position: relative;
   border-radius: 0;
 }
